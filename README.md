@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhises-Yogal
 - 👀 I’m interested in programming and self-development.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning MERN Stack and CS50CS.
 - 📫 To reach me:
   abishekyogal@gmail.com
 
