@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhises-Yogal
 - 👀 I’m interested in programming and self-development.
-- 🌱 I’m currently learning CS50CS and Cyber Security.
+- 🌱 I’m currently learning Bachelors of Cyber Security.
 - 📫 To reach me:
   abishekyogal@gmail.com
 
